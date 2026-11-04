@@ -9,7 +9,7 @@ Understand how to execute a Python application as a foreground process on a Linu
 vi foreground.py
 ```
 
-Add the following code:
+Add the following code: 
 
 ```python
 import time

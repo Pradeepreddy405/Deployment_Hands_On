@@ -6,7 +6,7 @@ Designed for **DevOps Engineers, Cloud Engineers, and Linux System Administrator
 
 The practical exercises demonstrate foreground execution, background execution, `nohup`, virtual environments, dependency management, log redirection, process monitoring, troubleshooting, and production-level service management using `systemd`.
 
----
+--- 
 
 ## 📋 Table of Contents
 

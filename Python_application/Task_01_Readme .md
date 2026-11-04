@@ -10,7 +10,7 @@ Install Python 3 on an Amazon Linux EC2 instance, create a basic Python program,
 sudo dnf update -y
 ```
 
-## 2. Install Python 3
+## 2. Install Python 3 
 
 ```bash
 sudo dnf install python3 -y

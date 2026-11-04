@@ -5,7 +5,7 @@
 Understand how to run a Python application in the background and redirect its standard output and errors into a log file.
 
 ## 1. Create Python Application
-
+ 
 ```bash
 vi logging.py
 ```

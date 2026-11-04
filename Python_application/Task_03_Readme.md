@@ -1,5 +1,5 @@
 # Task 03: Run Python Application in Background on Linux
-
+ 
 ## Objective
 
 Understand how to execute a Python application in the background so that the terminal remains available for executing other commands.
